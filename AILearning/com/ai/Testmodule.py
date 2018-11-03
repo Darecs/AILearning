@@ -19,7 +19,6 @@ class TestClass():
     def helloWorld(self, testSentence):
         print(testSentence)
         
-        
 
 a = TestClass()
 a.helloWorld("Hello World")
